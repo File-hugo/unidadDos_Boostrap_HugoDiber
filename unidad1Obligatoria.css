@@ -1,0 +1,66 @@
+.card-text-image-uno{
+    background-color: #A8A8A8; 
+    width:479px;
+    height:300px;
+}
+
+
+.card-body{
+    width:100%;
+    padding:0%;
+    height:100%;
+    display:inline-block;
+
+}
+
+
+.thumbnails{
+    text-align: center;
+    padding-top: 30%;
+    color:rgb(96,96,96)!important;
+
+}
+
+.textoDerecha{
+    text-align: right;
+    
+}
+
+.col-md-3 {
+margin-right: 100px;
+}
+
+.card-text{
+    font-size: larger;
+}
+
+
+
+.linkTabla {
+    border-collapse: collapse;
+    padding-bottom: 105px;
+    position:relative;
+    bottom:2rem;
+}
+  
+.linkTabla tr {
+    border: 3px solid black;
+
+}
+  
+.linkTabla td {
+	border: 2px solid black;
+    font-size:20px;
+    color:grey;
+    padding-left:9px;
+    padding-right:9px;
+}
+
+.text-muted{
+    top:10px;
+    position:relative;
+
+}
+
+
+
